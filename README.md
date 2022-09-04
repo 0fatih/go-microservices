@@ -18,3 +18,7 @@ Better project structure and gracefully shutdown.
 ## Ep.4 
 
 I understand why standard http package is not good for big project.
+
+## Ep.5 
+
+Refactor code with Gorilla framework

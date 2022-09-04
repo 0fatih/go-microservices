@@ -21,4 +21,8 @@ I understand why standard http package is not good for big project.
 
 ## Ep.5 
 
-Refactor code with Gorilla framework
+Refactor code with Gorilla framework.
+
+## Ep.6 
+
+Add some JSON validation.

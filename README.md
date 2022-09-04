@@ -26,3 +26,7 @@ Refactor code with Gorilla framework.
 ## Ep.6 
 
 Add some JSON validation.
+
+## Ep.7
+
+I loved documenting with Swagger. I should definetely go deep dive into it.

@@ -14,3 +14,7 @@ Better project structure and gracefully shutdown.
 
 - Usage of JSON in Golang
 - Power of the custom types
+
+## Ep.4 
+
+I understand why standard http package is not good for big project.

@@ -8,5 +8,8 @@ Creating a basic HTTP server.
 
 ## Ep.2 
 
+Better project structure and gracefully shutdown.
  
+## Ep.3 
+
 

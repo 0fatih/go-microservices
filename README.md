@@ -12,4 +12,5 @@ Better project structure and gracefully shutdown.
  
 ## Ep.3 
 
-
+- Usage of JSON in Golang
+- Power of the custom types

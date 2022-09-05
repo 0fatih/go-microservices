@@ -56,3 +56,7 @@ Protocol Buffers:
 ## Ep.14 
 
 Communicating with other Microservices is very powerfull. I accidentally broke one of my Microservices and the other one worked without an error. This is awesome
+
+## Ep.15 
+
+"No one writes good code at first time, usually". Importance of refactoring.

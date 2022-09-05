@@ -46,3 +46,13 @@ Uploading files and Multipart
 ## Ep.12 
 
 Add gzip encoding support.
+
+## Ep.13
+
+Protocol Buffers:
+- [Google - Protocol Buffers Overview](https://developers.google.com/protocol-buffers/docs/overview)
+> gRPC is a modern open source high performance Remote Procedure Call (RPC) framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services.
+
+## Ep.14 
+
+Communicating with other Microservices is very powerfull. I accidentally broke one of my Microservices and the other one worked without an error. This is awesome

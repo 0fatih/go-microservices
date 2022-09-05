@@ -64,3 +64,7 @@ Communicating with other Microservices is very powerfull. I accidentally broke o
 ## Ep.16-17
 
 Bi-directional connections. "AWESOME"
+
+## Ep.18 
+
+Richer error messages in gRPC.

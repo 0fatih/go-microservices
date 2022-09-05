@@ -68,3 +68,15 @@ Bi-directional connections. "AWESOME"
 ## Ep.18-19
 
 Richer error messages in gRPC.
+
+# Conclusion
+
+I learned so many things in this video series. Here are some of them:
+
+- Making mistakes is a part of "SUCCESS": Nic is an experienced developer and I watched him making mistakes and fixing those mistakes.
+- No one can write good code at the first time: Refactoring is very important. As in every expertise in the world, writing good codes wants some time.
+- Streaming.
+- Power of the microservices.
+- Protocol Buffers: I believe we are using unnecessarily some human-readable protocols for communicating (computer-to-computer). If we don't have to read, we should use serialized protocols like ProtoBufs.
+- gRPC: I wasn't imaging gRPC something like this. I'll learn this deeply.
+- Building better documentations.

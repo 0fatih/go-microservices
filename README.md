@@ -38,3 +38,7 @@ Auto-generating HTTP client with swagger.
 ## Ep.9
 
 Allow CORS. Here is a good [article](https://medium.com/@baphemot/understanding-cors-18ad6b478e2b) about CORS.
+
+## Ep.10-11
+
+Uploading files and Multipart

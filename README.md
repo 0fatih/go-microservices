@@ -30,3 +30,7 @@ Add some JSON validation.
 ## Ep.7
 
 I loved documenting with Swagger. I should definetely go deep dive into it.
+
+## Ep.8 
+
+Auto-generating HTTP client with swagger.

@@ -42,3 +42,7 @@ Allow CORS. Here is a good [article](https://medium.com/@baphemot/understanding-
 ## Ep.10-11
 
 Uploading files and Multipart
+
+## Ep.12 
+
+Add gzip encoding support.

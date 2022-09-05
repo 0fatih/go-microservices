@@ -34,3 +34,7 @@ I loved documenting with Swagger. I should definetely go deep dive into it.
 ## Ep.8 
 
 Auto-generating HTTP client with swagger.
+
+## Ep.9
+
+Allow CORS. Here is a good [artictle](https://medium.com/@baphemot/understanding-cors-18ad6b478e2b) about CORS.

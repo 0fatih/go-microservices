@@ -60,3 +60,7 @@ Communicating with other Microservices is very powerfull. I accidentally broke o
 ## Ep.15 
 
 "No one writes good code at first time, usually". Importance of refactoring.
+
+## Ep.16-17
+
+Bi-directional connections. "AWESOME"
